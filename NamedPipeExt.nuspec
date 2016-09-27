@@ -4,11 +4,11 @@
     <id>NamedPipeExt</id>
     <version>$version$</version>
     <title>Named Pipe Ext</title>
-    <authors>Mie Meng Niao (ÃðÃÉÄñ£©</authors>
+    <authors>Mie Meng Niao</authors>
     <owners>Mie Meng Niao</owners>
     <licenseUrl>https://github.com/miemengniao/NamedPipeExt/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/miemengniao/NamedPipeExt/</projectUrl>
-    <iconUrl>https://avatars1.githubusercontent.com/u/22443522?v=3&s=466</iconUrl>
+    <iconUrl>https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22443522%3Fv%3D3%26s%3D466</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Named Pipeline ext wrapper the windows named pipe to easy communicate between process/machine, it is a easy and effective way to communicate.</description>
     <releaseNotes></releaseNotes>

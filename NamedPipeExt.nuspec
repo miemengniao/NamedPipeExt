@@ -8,7 +8,7 @@
     <owners>Mie Meng Niao</owners>
     <licenseUrl>https://github.com/miemengniao/NamedPipeExt/blob/master/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/miemengniao/NamedPipeExt/</projectUrl>
-    <iconUrl></iconUrl>
+    <iconUrl>https://avatars1.githubusercontent.com/u/22443522?v%3D3%26s%3D466</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Named Pipeline ext wrapper the windows named pipe to easy communicate between process/machine, it is a easy and effective way to communicate.</description>
     <releaseNotes></releaseNotes>

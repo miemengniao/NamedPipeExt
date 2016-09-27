@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1ABBA271-349B-42DB-9DB2-DBC1038228DD}"
 	ProjectSection(SolutionItems) = preProject
 		build.bat = build.bat
+		NamedPipeExt.nuspec = NamedPipeExt.nuspec
 	EndProjectSection
 EndProject
 Global

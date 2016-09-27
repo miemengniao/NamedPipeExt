@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NamedPipeExt</id>
+    <version>$version$</version>
+    <title>Named Pipe Ext</title>
+    <authors>Mie Meng Niao (ÃðÃÉÄñ£©</authors>
+    <owners>Mie Meng Niao</owners>
+    <licenseUrl>https://github.com/miemengniao/NamedPipeExt/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/miemengniao/NamedPipeExt/</projectUrl>
+    <iconUrl>https://avatars1.githubusercontent.com/u/22443522?v=3&s=466</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Named Pipeline ext wrapper the windows named pipe to easy communicate between process/machine, it is a easy and effective way to communicate.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright &#x00A9; Foyo Software.  All rights reserved.</copyright>
+    <tags>Named Pipe Wrapper</tags>
+  </metadata>
+  <files>
+	<file src="NamedPipeWrapper\bin\$configuration$\NamedPipeWrapper.dll" target="lib\net40\" />
+  </files>
+</package>
